@@ -1,0 +1,23 @@
+SYNOPSIS OF FANTASY CRICKET GAME USING GUI IN PYHTON
+
+1.This project layout is made using qtdesigner ,and the databases of players are created using sqlite3 package
+
+2.The main code is in the file fantasycricket_game_maincode
+
+3.Inorder to make the popup windows for new,open,create new teams,seperate ui to py files are created 
+
+4.Database files are made using sqlite studio
+
+Instructions to operate the game
+
+1.on opening the window of the game ,click on the "New Team" option
+
+2.After selcting the newteam ,give a name to the team and click on the BAT,BOW,WK,AL for the selection of players
+
+3.now select the players based on the instructions and save the team 
+
+4.after saving the team click on Evaluvate team for the calculation of the score
+
+5.enjoy the game Thank you!
+
+THE ABOVE CODE IS MADE WITH HELP OF INTERNSHALA TRAININGS
